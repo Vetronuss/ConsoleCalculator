@@ -1,13 +1,13 @@
 # ConsoleCalculator
 A pemdas calculator in c++
 ---
-supports:
+### supports:
 - multiplication (* or x)
 - division (/)
 - subtraction (-)
 - Addition (+)
 - parenthesis (((())))
-Does not support:
+### Does not support:
 - exponents
 - anything else lol
 ---
